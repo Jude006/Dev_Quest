@@ -9,7 +9,7 @@ import AdminRoutes from "./AdminRoutes";
 import NotFound from "../pages/NotFound";
 import MinimalLayout from "../layouts/MinimalLayout";
 import ProtectedRoutes from "../routes/ProtectedRoutes";
-import Unauthorized from "../pages/Unauthorized";
+import Unauthorized from "../pages/UnAuthorized";
 
 const AppRoutes = () => {
   return (
