@@ -4,7 +4,7 @@ import Dashboard from "../pages/user/Dashboard";
 import TaskCreate from "../pages/user/TaskCreate";
 import TaskList from "../pages/user/TaskList";
 import TaskDetail from "../pages/user/TaskDetail";
-import LeaderBoard from "../pages/user/Leaderboard";
+import LeaderBoard from "../pages/user/LeaderBoard";
 import Learn from "../pages/user/Learn";
 import Profile from "../pages/user/Profile";
 import LearnDetail from "../pages/user/LearnDetail";
