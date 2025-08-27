@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:3000/api',
+  baseURL: 'https://dev-quest-backend-1.onrender.com/api',
 });
 
 // Add token to requests automatically
